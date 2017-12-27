@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import {Image} from 'react-native'
-//hao 
+//hao 阿斯顿发生地方
 export default class XJ extends Component {
     render() {
         let pic = {
